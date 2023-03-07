@@ -16,7 +16,7 @@
 Siempre pense que la mejor forma de aprender es enseñar, eso aumenta mis habilidades de liderazgo de forma que cada integrante de mi equipo logre avanzar, ademas de mis habilidades técnicas contarás con gran habilidad para resolver prblemas y ganas de ayudar a los demás. 
 
 📈Experiencia.
-Hace 2 años me involucre a fondo en este mundo, comenzando con lenguajes como PHP, Javascript y SQL sin embargo mi experiencia más destacada fué como estudiante de desarrollo web fullstack en SoyHenry, donde perfeccione mis habilidades tanto en Backend como en Frontent utilizando lenguajes como NodeJs, Javascript, SQL y framework como ReactJs, he ampliado mis conocimientos desde que estudio en henry, ahora manejo librerias como MaterialUi.
+Hace 1 año me involucre a fondo en este mundo, comenzando con lenguajes como Javascript y SQL sin embargo mi experiencia más destacada fué como estudiante de desarrollo web fullstack en SoyHenry, donde perfeccione mis habilidades tanto en Backend como en Frontent utilizando lenguajes como NodeJs, Javascript, SQL y framework como ReactJs, he ampliado mis conocimientos desde que estudio en henry, ahora manejo librerias como MaterialUi.
 
 No dudes en coctactar conmigo, aun hay mucho más. 📲 +54 3329 527986  
   
